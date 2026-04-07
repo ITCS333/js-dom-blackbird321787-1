@@ -34,7 +34,6 @@ function highlightParagraph() {
   // TODO: Implement this function
   const para = doucument.querySelector(".content-para");
   para.classList.add("highlight");
-
 }
 
 /**
